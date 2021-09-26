@@ -21,7 +21,7 @@ class Starter:
 
 
 	def start(self):
-		print(Fore.YELLOW + pyfiglet.figlet_format("TURAN"))
+		print(Fore.YELLOW + pyfiglet.figlet_format("BY DEPS"))
 		print('============')
 		print(Fore.GREEN + 'Телеграм - https://t.me/depsyt')
 		print(Fore.RED + 'VKontakte - https://vk.com/depsyt')
